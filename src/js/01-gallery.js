@@ -1,15 +1,17 @@
 import { galleryItems } from './gallery-items.js';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const items = document.querySelector(`.gallery`);
 console.log(items);
 items.innerHTML = `<ul class = "galleryEl"></ul>`;
-const gridLi = document.querySelector(`.galleryEl`)
+const gridLi = document.querySelector(`.galleryEl`);
 const galleryPicture = getGalleryPicture(galleryItems);
-gridLi.insertAdjacentHTML("beforeend", galleryPicture);
-  console.log(getGalleryPicture(galleryItems));
+gridLi.insertAdjacentHTML('beforeend', galleryPicture);
+console.log(getGalleryPicture(galleryItems));
 function getGalleryPicture(galleryItems) {
-  return  galleryItems.map(({preview, original, description})=> {
-      return  `<li><div class="gallery__item">
+  return galleryItems
+    .map(({ preview, original, description }) => {
+      return `<li><div class="gallery__item">
       <a class="gallery__link" href="${original}" target="_self">
         <img
           class="gallery__image"
@@ -19,27 +21,27 @@ function getGalleryPicture(galleryItems) {
         />
       </a>
     </div></li>`;
-  }).join(``);  
-
-};
+    })
+    .join(``);
+}
 function onImageContainerClick(event) {
   window.addEventListener('keydown', onEscKeyPress);
 
   event.preventDefault();
 
   if (event.target.nodeName !== 'IMG') {
-    return
+    return;
   }
 
   const instance = basicLightbox.create(`
     <img src="${event.target.dataset.source}" width="800" height="600">
-`)
+`);
 
-  instance.show()
+  instance.show();
 
   function onEscKeyPress(event) {
     if (event.code === 'Escape') {
-      instance.close()
+      instance.close();
     }
   }
 }
