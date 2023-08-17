@@ -148,7 +148,7 @@
 106C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\svgo\plugins\sortDefsChildren.js133367682588947919 0
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\tslib\modules\package.json133367684072862450 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\type-fest\base.d.ts133367682488113952 0
-75C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\index.html133367689850637973 0
+75C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\index.html133367716460992860 0
 107C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_create_super.js133367684100248146 0
 73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\index.js133367674256238174 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\VN.js133367682635886608 0
