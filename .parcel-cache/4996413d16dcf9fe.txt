@@ -1,4 +1,4 @@
-4971
+4985
 89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\merge2\index.js133367682469243706 0
 95C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\CHANGELOG.md133367682605260527 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\esm\_class_call_check.js133367684098951168 0
@@ -23,7 +23,7 @@
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\FI.js133367682614509709 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\.github133367686077038798 1
 90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\term-size\vendor133367682464390496 1
-91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@msgpackr-extract133367686077195033 1
+91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@msgpackr-extract133367722366153404 1
 71C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\.gitignore133360651296898081 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\source-map-js\lib\util.js133367682519800132 0
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-what\lib\commonjs\index.js133367682476111538 0
@@ -45,6 +45,10 @@
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fast-glob\out\providers\filters\deep.d.ts133367682566280755 0
 121C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\transformer-json\src\JSONTransformer.js133367684108204941 0
 68C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\.sassrc133367674249091053 0
+126C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133367684383485510 0
+88C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache133367682499957601 1
+114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_spread_props.js133367684101581740 0
+87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox133367722365639649 1
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\posthtml-include\README.md133367682473596097 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\data\index.js133367682586891900 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\type-fest\source\entries.d.ts133367682519284402 0
@@ -61,7 +65,7 @@
 127C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133367684124578127 0
 125C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133367684084984899 0
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\utility-types\package.json133367682478123032 0
-73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules133367686077195033 1
+73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules133367722366143444 1
 110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\utility-types\dist\mapped-types.d.ts133367682527269351 0
 121C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\fieldset-disabled.js133367682614549603 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\queue-microtask\README.md133367682473120436 0
@@ -69,7 +73,7 @@
 130C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133367684143354863 1
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lines-and-columns\LICENSE133367682465703051 0
 82C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\svgo\bin133367682454055143 1
-78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\package-lock.json133367686078666670 0
+78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\package-lock.json133367722367217334 0
 127C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\lib\keyword.js.map133367684224173056 0
 107C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache\tests\benchmark.js133367682463399549 0
 71C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\images133367674256394404 1
@@ -83,7 +87,7 @@
 121C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\keyboardevent-key.js133367682621392413 0
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-what\lib\es\index.d.ts133367682544762138 0
 78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\sass133367682587200867 1
-73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\package.json133367686077350929 0
+73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\package.json133367722366213191 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\immutable\package.json133367682519919730 0
 73C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\README.en.md133367674249559773 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\react-refresh\build-info.json133367682497969811 0
@@ -129,7 +133,7 @@
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\chrome-trace-event133367682503242871 1
 102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\resolver-default\src133367684125984242 1
 90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\timsort\index.js133367684224352446 0
-78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc133367686077195033 1
+78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc133367722366143444 1
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_type_of.cjs133367684098162877 0
 98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\term-size\vendor\windows133367682466281710 1
 68C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\css133367692291830603 1
@@ -175,17 +179,6 @@
 114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\src\jquery-plugin-wrap.js133367686076101079 0
 139C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133367684188784945 0
 83C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\sass\_example.scss133367674258342338 0
-84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fclone\src133367682514347547 1
-115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates133367684129265115 1
-101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\package.json133367686076882221 0
-105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\FR.js133367682615729626 0
-96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\import-fresh\readme.md133367682478591727 0
-112C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser133367684125203073 1
-87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\color-convert133367682502466719 1
-102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\workers\lib\types.js133367684096306141 0
-134C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\helpers\fillResultsFolder.js133367682478279276 0
-89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\01-gallery.html133367720020282945 0
-93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache\dist133367682455387129 1
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\valid.js133367684074112324 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\csso\lib\restructure\utils.js133367682579247938 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\yallist\yallist.js133367684062043969 0
@@ -198,7 +191,19 @@
 84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\js\gallery-items.js133360651068908541 0
 87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@lezer\common133367682546905847 1
 102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\lib\syntax\index.js133367682589104152 0
-81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel133367686077195033 1
+84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fclone\src133367682514347547 1
+115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates133367684129265115 1
+92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\dist133367722365323468 1
+101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\package.json133367686076882221 0
+105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\FR.js133367682615729626 0
+96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\import-fresh\readme.md133367682478591727 0
+112C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\runtime-js\lib\helpers\browser133367684125203073 1
+87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\color-convert133367682502466719 1
+102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\workers\lib\types.js133367684096306141 0
+134C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\helpers\fillResultsFolder.js133367682478279276 0
+89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\01-gallery.html133367720587869890 0
+93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache\dist133367682455387129 1
+81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel133367722366153404 1
 94C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\ansi-styles\index.js133367682476776186 0
 128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133367684099879197 0
 106C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\msgpackr\dist\unpack-no-eval.cjs133367684093957598 0
@@ -214,7 +219,7 @@
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\textcontent.js133367682631958775 0
 78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\.github\workflows133367674252975526 1
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\events\src\index.js133367684179382221 0
-90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367720020282945 0
+90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367721365991695 0
 81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\js\01-gallery.js133367703646426030 0
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133367684090920635 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions133367682642459137 1
@@ -247,7 +252,7 @@
 84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel\lib133367684068845696 1
 79C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\css\styles.css133360651068878637 0
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\lib\syntax\pseudo133367682601938146 1
-92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\.package-lock.json133367686079197531 0
+92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\.package-lock.json133367722368233663 0
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133367682610410914 0
 146C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\posthtml-include\node_modules\posthtml-parser\dist\location-tracker.d.ts133367682546593379 0
 80C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel133367684442143836 1
@@ -264,7 +269,7 @@
 113C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\src\simple-lightbox.scss133367686077038798 0
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\sass\types\legacy\options.d.ts133367682593819296 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CY.js133367682612054589 0
-79C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@lmdb133367686077195033 1
+79C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@lmdb133367722366163366 1
 98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\abortcontroller-polyfill133367684083715162 1
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\chokidar\lib\constants.js133367682476626117 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\source-map\lib\binary-search.js133367682500474759 0
@@ -380,14 +385,14 @@
 83C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\js-tokens133367682485233812 1
 135C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.d.ts133367682543337333 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\domutils\readme.md133367682537664942 0
-84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\domhandler133367682502476696 1
-114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\package.json133367684143042411 0
 129C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133367684117444120 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\nth-check\lib\parse.js133367682495890403 0
-114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-shapes.js133367682610709243 0
-123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133367684142886165 0
+114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\package.json133367684143042411 0
+84C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\domhandler133367682502476696 1
 82C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\domutils133367682534957796 1
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133367682622635514 0
+123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\ServerReporter.js133367684142886165 0
+114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-shapes.js133367682610709243 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\source-map\LICENSE133367682470900116 0
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\svgo\plugins\removeTitle.js133367682585175224 0
 110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\src\_inherits_loose.mjs133367684108015601 0
@@ -740,8 +745,6 @@
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\cosmiconfig\dist\index.js133367684100956805 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\update-browserslist-db133367682462766087 1
 87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\utility-types133367682518965475 1
-126C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133367684383485510 0
-88C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache133367682499957601 1
 85C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\xxhash-wasm133367682503833583 1
 91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel\src\bin.js133367684068835731 0
 81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\yallist133367684062497278 1
@@ -809,8 +812,6 @@
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\core\index.js133367684063747147 0
 112C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\node-releases\data\processed\envs.json133367682452991459 0
 108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\svgo\plugins\removeRasterImages.js133367682582258900 0
-108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\woff.js133367682642206304 0
-110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\mdn-data\api\inheritance.schema.json133367682521425445 0
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\xxhash-wasm\cjs\xxhash-wasm.js133367682456068433 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\posthtml-render\dist\index.js133367682467687804 0
 150C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133367684221629624 0
@@ -1355,9 +1356,6 @@
 107C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyCss.js133367684091076866 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb133367686075944823 1
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\dom-serializer\node_modules\entities\LICENSE133367682531313058 0
-103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\entities\lib\maps\legacy.json133367682522160630 0
-105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AX.js133367682577624231 0
-98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\outside.js133367684073799839 0
 110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\04.jpg133367686075788591 0
 153C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\embed2\file3.txt133367682586255085 0
 90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fclone\README.md133367682476081633 0
@@ -1388,6 +1386,9 @@
 94C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\gtr.js133367684073487384 0
 116C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\svg-fragment.js133367682631363655 0
 94C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\ltr.js133367684073643607 0
+103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\entities\lib\maps\legacy.json133367682522160630 0
+105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\AX.js133367682577624231 0
+98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\outside.js133367684073799839 0
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\core\test\fixtures133367684189239527 1
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\NA.js133367682626300539 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\simplify.js133367684074112324 0
@@ -1888,6 +1889,7 @@
 114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\esm\_object_spread_props.js133367684101425530 0
 116C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133367682508419807 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel\src\.eslintrc.json133367684069616955 0
+91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src133367722365965884 1
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\nth-check\lib\index.js.map133367682524975367 0
 119C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\has-foo133367684143354863 1
 94C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\ordered-binary\.idea133367684077416049 1
@@ -2091,10 +2093,13 @@
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\mdn-data\css\types.schema.json133367682556393675 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-select\LICENSE133367682471458220 0
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\mdn-data\css\units.schema.json133367682561344699 0
+108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\woff.js133367682642206304 0
+110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\mdn-data\api\inheritance.schema.json133367682521425445 0
 91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lru-cache\LICENSE133367684061487246 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lru-cache\package.json133367684062207391 0
-115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-stroke.js133367682631930287 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lru-cache\README.md133367684062497278 0
+107C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src\scripts\main.js133367722365519246 0
+115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\text-stroke.js133367682631930287 0
 91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies133367684162758787 1
 120C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133367684189219591 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\lib\syntax\scope\selector.js133367682601485242 0
@@ -2211,6 +2216,7 @@
 130C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133367684084757776 0
 128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133367684098483549 0
 133C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133367684085141149 0
+95C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\LICENSE133367722365323468 0
 133C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.c133367684092170502 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fast-glob\out\utils133367682579792684 1
 133C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133367684096149898 0
@@ -2394,7 +2400,6 @@
 90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\is-glob\index.js133367682471458220 0
 89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\is-glob\LICENSE133367682467062866 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CZ.js133367682612084491 0
-123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133367684142886165 0
 91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\is-glob\README.md133367682479890216 0
 145C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133367684096048152 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\is-extglob\index.js133367682478591727 0
@@ -2608,9 +2613,9 @@
 90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\index.d.ts133367682518114826 0
 87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\LICENSE133367682469243706 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\package.json133367682499957601 0
-97C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\color-name\package.json133367682472238309 0
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\css-tree\README.md133367682605260527 0
 88C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\queue.js133367682487754903 0
+97C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\color-name\package.json133367682472238309 0
 89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\README.md133367682509851523 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133367684096903675 0
 98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\fastq\test\tsconfig.json133367682503853534 0
@@ -2733,6 +2738,7 @@
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\xml-serializer.js133367682642450893 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\flow.js133367684116507167 0
 102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@nodelib\fs.walk\out\readers133367682565103408 1
+113C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\dist\basicLightbox.min.js133367722365478859 0
 108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_is_native_function133367684105258522 1
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-xml.js133367682497276122 0
 120C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\electron-to-chromium\full-chromium-versions.js133367682469243706 0
@@ -3215,8 +3221,8 @@
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\GY.js133367682616823272 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\dataset.js133367682612127523 0
 126C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\esm\_class_private_field_destructure.js133367684099263658 0
-105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\HK.js133367682616979510 0
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\Server.js133367684129421368 0
+105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\HK.js133367682616979510 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\HU.js133367682617472852 0
 128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\workers\test\integration\workerfarm\console.js133367684094910150 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\IL.js133367682617625122 0
@@ -3231,7 +3237,6 @@
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_sliced_to_array133367684105999772 1
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\JM.js133367682620615579 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\JP.js133367682620765088 0
-124C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates\500.html133367684129265115 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\KE.js133367682621153668 0
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\typedarrays.js133367682632421358 0
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions\KG.js133367682621581772 0
@@ -3822,6 +3827,17 @@
 92C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\boolbase\README.md133367682475368419 0
 104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\binary-extensions\package.json133367682487442353 0
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\binary-extensions\readme.md133367682493545200 0
+100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\CHANGELOG.md133367722365639649 0
+115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133367684094605423 0
+100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\package.json133367722365519246 0
+97C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\README.md133367722365953173 0
+101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src\.DS_Store133367722365323468 0
+99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src\scripts133367722365519246 1
+103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\markdown-ansi\LICENSE133367684166977096 0
+98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src\styles133367722365975937 1
+108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\src\styles\main.scss133367722366013827 0
+105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\LICENSE133367684154317984 0
+114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\basiclightbox\dist\basicLightbox.min.css133367722365323468 0
 91C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\base-x\LICENSE.md133367682482740678 0
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\logger\LICENSE133367684196014054 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\base-x\package.json133367682476932505 0
@@ -3939,14 +3955,13 @@
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_super_prop_base\package.json133367684105999772 0
 106C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_set\package.json133367684105883468 0
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_read_only_error\package.json133367684105883468 0
-128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_object_without_properties\package.json133367684105727256 0
 119C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\types.js.flow133367684129265115 0
+128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_object_without_properties\package.json133367684105727256 0
 122C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133367684105570989 0
 120C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_non_iterable_rest\package.json133367684105570989 0
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_new_arrow_check\package.json133367684105570989 0
 127C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133367684105258522 0
 113C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_instanceof\package.json133367684105102295 0
-124C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates\404.html133367684129265115 0
 130C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\_\_initializer_define_property\package.json133367684105102295 0
 98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\transformer-html133367684111663494 1
 112C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel\highlight\node_modules\has-flag133367684427691062 1
@@ -4070,7 +4085,6 @@
 114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_non_iterable_spread.js133367684101425530 0
 116C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@nodelib\fs.walk\out\providers\stream.d.ts133367682564507300 0
 121C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_destructuring_empty.js133367684101425530 0
-114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_spread_props.js133367684101581740 0
 120C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_object_without_properties.js133367684101737979 0
 110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\lib\_read_only_error.js133367684101737979 0
 119C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\esm\_class_private_field_init.js133367684099263658 0
@@ -4137,7 +4151,6 @@
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\index.cjs133367684098173515 0
 122C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_apply_decorated_descriptor.cjs133367684094435991 0
 119C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-tracer\src\TracerReporter.js133367684073331139 0
-115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_array_without_holes.cjs133367684094605423 0
 112C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133367684094585490 0
 111C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_async_generator.cjs133367684094664969 0
 117C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133367684094940069 0
@@ -4379,10 +4392,10 @@
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\lib\keyword.js133367684224073382 0
 106C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\core\src\ParcelConfig.js133367684182852930 0
 137C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133367684123172040 0
-104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel\code-frame\lib\index.js133367684219926572 0
-149C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133367684122234632 0
-109C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\LICENSE133367684129265115 0
 119C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133367684124265659 0
+104C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@babel\code-frame\lib\index.js133367684219926572 0
+109C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\LICENSE133367684129265115 0
+149C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133367684122234632 0
 124C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133367684231678363 1
 108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\core\src\RequestTracker.js133367684183680549 0
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133367684236529419 0
@@ -4438,6 +4451,9 @@
 105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src133367684142886165 1
 118C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\HMRServer.js133367684129265115 0
 121C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133367684129421368 0
+124C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates\404.html133367684129265115 0
+124C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\src\templates\500.html133367684129265115 0
+123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133367684142886165 0
 114C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\node-resolver-core\lib\_empty.js133367684160880521 0
 127C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js.map133367684154161740 0
 98C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\reporter-cli\lib133367684143979807 1
@@ -4537,7 +4553,6 @@
 100C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-svgo\src133367684149760664 1
 117C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133367684149760664 0
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\lib133367684154317984 1
-105C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\LICENSE133367684154317984 0
 107C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\native.js133367684154317984 0
 110C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\package.json133367684154474200 0
 128C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\optimizer-image\parcel-image.darwin-arm64.node133367684187032178 0
@@ -4573,7 +4588,6 @@
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\namer-default\src133367684162133859 1
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\namer-default\src\DefaultNamer.js133367684162133859 0
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\namer-default\lib\DefaultNamer.js133367684162133859 0
-103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\markdown-ansi\LICENSE133367684166977096 0
 108C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\markdown-ansi\package.json133367684167133322 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\markdown-ansi\src133367684166977096 1
 88C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\fs\src133367684189847492 1

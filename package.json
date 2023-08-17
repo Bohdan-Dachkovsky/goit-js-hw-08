@@ -18,6 +18,7 @@
     "url": "https://github.com/Bohdan-Dachkovsky.github.io/goit-js-hw-08/issues"
   },
   "dependencies": {
+    "basiclightbox": "^5.0.4",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.14.1"
   },
