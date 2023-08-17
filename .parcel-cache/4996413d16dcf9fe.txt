@@ -214,7 +214,7 @@
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\textcontent.js133367682631958775 0
 78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\.github\workflows133367674252975526 1
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\events\src\index.js133367684179382221 0
-90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367714667426549 0
+90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367718100802980 0
 81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\js\01-gallery.js133367703646426030 0
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133367684090920635 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions133367682642459137 1
