@@ -184,7 +184,7 @@
 87C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\color-convert133367682502466719 1
 102C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\workers\lib\types.js133367684096306141 0
 134C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\helpers\fillResultsFolder.js133367682478279276 0
-89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\01-gallery.html133367703646396136 0
+89C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\01-gallery.html133367713604638674 0
 93C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\weak-lru-cache\dist133367682455387129 1
 96C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\semver\ranges\valid.js133367684074112324 0
 103C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\csso\lib\restructure\utils.js133367682579247938 0
@@ -214,7 +214,7 @@
 115C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\features\textcontent.js133367682631958775 0
 78C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\.github\workflows133367674252975526 1
 101C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\@parcel\events\src\index.js133367684179382221 0
-90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367703646416063 0
+90C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\partials\02-lightbox.html133367713604638674 0
 81C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\src\js\01-gallery.js133367703646426030 0
 123C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133367684090920635 0
 99C:\Users\Bohdan\repositories\Bohdan-Dachkovsky\goit-js-hw-08\node_modules\caniuse-lite\data\regions133367682642459137 1
