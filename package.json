@@ -20,7 +20,7 @@
   "dependencies": {
     "basiclightbox": "^5.0.4",
     "modern-normalize": "^1.1.0",
-    "npm": "^6.13.1",
+    "npm": "^9.8.1",
     "simplelightbox": "^2.14.1"
   },
   "devDependencies": {
