@@ -19,9 +19,11 @@
   },
   "dependencies": {
     "basiclightbox": "^5.0.4",
+    "css-select": "^5.1.0",
     "modern-normalize": "^1.1.0",
     "npm": "^9.8.1",
-    "simplelightbox": "^2.14.1"
+    "simplelightbox": "^2.14.1",
+    "svgo": "^3.0.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
